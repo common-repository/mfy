@@ -1,0 +1,146 @@
+.mfy {
+  display: flex;
+  justify-content: center;
+}
+
+.mfy .notice.notice.is-dismissible {
+  max-width: 475px;
+  margin: 20px auto 0px auto;
+  border-radius: 8px;
+  border-left-width: 8px;
+}
+
+.cardmfy {
+  background: #fff;
+  box-shadow: 0 7px 47px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  width: 800px;
+  position: relative;
+}
+
+.cardmfy .mboxheader {
+  text-align: center;
+  max-width: 70%;
+  padding-top: 15px;
+  margin: 28px auto;
+  border-top: 1px solid #d3e9ff;
+}
+.mboxheader p {
+  color: #7d7d7d;
+}
+.mboxheader h2 {
+  color: #518ecc;
+}
+.mboxheader code {
+  padding: 8px;
+  border-radius: 5px;
+  background: rgba(59, 68, 90, 0.94);
+  font-size: 13px;
+  color: #47c1ff;
+}
+.cardmfy table {
+  width: 100%;
+}
+.cardmfy input[type="number"],
+.cardmfy select {
+  padding: 14px 7px;
+  min-width: 265px;
+  height: 50px;
+  border-radius: 8px;
+}
+.cardmfy table {
+  margin: 0 auto;
+}
+.cardmfy td {
+  max-width: 300px;
+  padding: 24px 28px;
+}
+
+.cardmfy tr p {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.4;
+  margin: 0;
+}
+.cardmfy tr small {
+  font-size: 13px;
+  line-height: 0.6;
+  margin: 0;
+  color: #868686;
+}
+.cardmfy input[type="checkbox"] {
+  width: 40px;
+  height: 40px;
+  padding-left: 16px;
+  border-radius: 50%;
+  border: 1px solid #ffffff;
+  margin: -4px 4px 0 14px;
+  background-image: linear-gradient(
+    -180deg,
+    rgb(0, 206, 121) 0%,
+    rgb(56, 162, 128) 98%
+  );
+}
+.cardmfy input[type="checkbox"]:checked:before {
+  content: "\f530";
+  font-size: 25px;
+  margin: 0px 0 0 6px;
+  color: #fff;
+}
+.cardmfy input[type="checkbox"]:before {
+  content: "\f177";
+  font: 400 22px/1.5 dashicons;
+  font-size: 25px;
+  margin: 0px 8px 4px 6px;
+  color: #ffffff;
+}
+.cardmfy input[type="checkbox"]:checked {
+  background-image: linear-gradient(
+    -180deg,
+    rgb(253, 128, 128) 0%,
+    rgb(247, 77, 77) 98%
+  );
+}
+.cardmfy input[type="submit"] {
+  background-image: linear-gradient(
+    -180deg,
+    rgb(108, 216, 176) 0%,
+    rgb(63, 179, 174) 98%
+  );
+
+  color: #fff;
+  font-size: 18px;
+  padding: 16px 28px;
+  border-radius: 4px;
+  float: right;
+  border: 0;
+  box-shadow: 0px 0px 0px 0px rgba(41, 82, 61, 0.37);
+  transition: all 0.5s ease;
+  cursor: pointer;
+}
+.cardmfy input[type="submit"]:hover {
+  box-shadow: 0px 12px 18px 0px rgba(41, 82, 61, 0.37);
+  transition: all 0.5s ease;
+}
+
+.titlemfy {
+  background-image: linear-gradient(
+    -180deg,
+    rgb(203, 212, 255) 0%,
+    rgb(255, 255, 255) 98%
+  );
+  padding: 46px 8px;
+  color: #54667d;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.titlemfy h1 {
+  color: #4083dc;
+  font-weight: 100;
+  font-size: 35px;
+}
+
+.settings {
+  padding: 4px 8px;
+}

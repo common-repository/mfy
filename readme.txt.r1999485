@@ -1,0 +1,77 @@
+=== MFY Growth Widgets ===
+Contributors: getmfy
+Requires at least: 4.7
+Tested up to: 5.0.1
+Requires PHP: 5.2
+Stable tag: 2.0.1
+Tags: messenger marketing, content marketing, subscription box, chat plugin, email box, facebook chat widget, mfy, messengerify, mbox, mchat, optin box, facebook, messenger, live chat, MailChimp
+
+If you aren't building a Facebook Messenger subscriber list in addition to your email list to grow your audience, you are missing out on an amazing new channel with 80% open rates and high engagement that beats email deliverability and open rates. On the other hand, an email list has the benefit of being less dependent on a particular social media company as a source of traffic to your website or blog.
+
+With MFY Subscribe now you can have the best of both worlds. Allow your visitors to signup as a subscriber via Facebook Messenger or via email. MFY Subscribe is the only plugin you need to add multiple capture widgets or subscribe boxes on your website with a beautiful design and customizable call to action text that is proven to convert your visitors into subscribers.
+
+And it's fast! Blazingly fast. We optimize for speed of loading by caching the super-optimized widget code in multiple edge servers across the world. It's also very easy to customize the widget (in real time!) via our MFY dashboard. You can even add custom CSS to control the look and feel of the plugin for a pixel-perfect match for your website branding.
+
+The plugin is available for FREE and if you have a subscription to MFY app (free for the first 500 newly added subscribers), you can send Facebook Messenger broadcasts to all or segments of your subscriber list!
+
+Installing MFY Subscribe plugin is the easiest way to grow your Facebook Messenger subscriber list in addition to your email list and to nurture and keep your audience engaged via FB Messenger campaigns!
+
+= Live Demo =
+
+Check out a live version of the MFY Subscribe plugin on our own Wordpress blog at [https://blog.mfy.im](https://blog.mfy.im)
+
+== Why Choose MFY Subscribe ==
+
+1. Lightweight and blazing fast to load (only 18KB and loads in 200ms)
+2. Supports 2-in-1 subscribe using Facebook Messenger and Email
+3. Easy customization via dashboard in real time
+4. Supports custom CSS options
+5. Multiple widgets are supported in a single installation
+6. Export subscribe list as CSV
+7. Auto-sync to CRM and Email Automation tools like MailChimp (coming soon)
+8. Compatible with caching and SEO plugins
+
+= Support =
+
+Support is provided via our Wordpress forum and also via live chat at [https://mfy.im](https://mfy.im)
+
+Easy to follow video tutorials and help articles are available at [https://help.mfy.im](https://help.mfy.im)
+
+= Help Make it better =
+
+We love hearing from our users about how to improve MFY Subscribe plugin. To share your feature requests or to report bugs please chat with us at [https://mfy.im](https://mfy.im)
+
+== FAQ ==
+
+= How do I get support? =
+
+Our team will gladly assist you. Please create a support ticket at WordPress forum and we will take care of it right away. Alternatively, ping us in chat at [https://mfy.im](https://mfy.im)
+
+= Do I need an MFY subscription? =
+
+The MFY Subscribe widget is available for FREE and you can get started with a free tier plan of MFY app. You can continue to use this plugin and the MFY app for FREE until the number of subscribers new added grows beyond 500 in number.
+
+
+== Screenshots ==
+1. Growth widget
+2. Easy setup
+3. Easy Customization
+
+== Changelog ==
+= 2.0.1 =
+Added support for wordpress version 5.0
+= 2.0.0 =
+New and improved MFY
+= 1.0.4 =
+Buf fixes
+= 1.0.3 =
+Buf fixes
+= 1.0.2 =
+Buf fixes
+= 1.0.1 =
+Adding screenshots
+= 1.0.0 =
+First Release of plugin
+
+== Upgrade Notice ==
+You are all up-to-date!
